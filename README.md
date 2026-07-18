@@ -11,11 +11,10 @@ I spent 15+ years at Bharat Electronics Limited, India's largest defense electro
 ## 🔨 What I'm building
 
 ### [FamilyBoard / BoardBridge](https://github.com/apulagarwal/boardbridge) · `React · TypeScript · Supabase`
-A real-time multiplayer board game, engineered in 2 days with no prior frontend experience. Separated planning (Claude) from build (Bolt) to cut token cost, then shipped a pure functional game engine with **170 automated tests** and low-latency cross-geography WebSocket sync. **[▶ Play live](https://indo-american-family-buio.bolt.host)**
+A real-time multiplayer board game, engineered in 2 days with no prior frontend experience. Separated planning (Claude) from build (Bolt) to cut token cost, then shipped a pure functional game engine with **170 automated tests** and low-latency cross-geography WebSocket sync. **[▶ Play live](https://boardbridge.bolt.host)**
 
-### Resume-Tailoring System · `Claude · Python · MCP`
+### [Resume-Tailoring System](https://github.com/apulagarwal/resume-ops) · `Claude · Python · MCP`
 An ATS-optimized resume and cover-letter generator with a repeatable, quality-gated workflow and persistent cross-session context. Every application passes through the same pipeline: JD scoring, keyword-gap analysis against a real ATS scanner, a single tailoring pass with hard pre-flight assertions, and a tracked funnel. **Currently powering 40+ applications.**
-*Repo: `resume-ops` (publishing soon)*
 
 ### Quiver · `Python · Apify · Jobscan`
 An automated daily job-search pipeline, shipped in 7 days. Scrapes 22 target companies, filters and dedupes to TPM/PM roles, and ranks by competition so effort goes where odds are best. **First run: 103 roles in 4.1 minutes, 32 with under 50 applicants.**
