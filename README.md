@@ -10,6 +10,9 @@ I spent 15+ years at Bharat Electronics Limited, India's largest defense electro
 
 ## 🔨 What I'm building
 
+### [FamilyBoard / BoardBridge](https://github.com/apulagarwal/boardbridge) · `React · TypeScript · Supabase`
+A real-time multiplayer board game, engineered in 2 days with no prior frontend experience. Separated planning (Claude) from build (Bolt) to cut token cost, then shipped a pure functional game engine with **170 automated tests** and low-latency cross-geography WebSocket sync. **[▶ Play live](https://indo-american-family-buio.bolt.host)**
+
 ### Resume-Tailoring System · `Claude · Python · MCP`
 An ATS-optimized resume and cover-letter generator with a repeatable, quality-gated workflow and persistent cross-session context. Every application passes through the same pipeline: JD scoring, keyword-gap analysis against a real ATS scanner, a single tailoring pass with hard pre-flight assertions, and a tracked funnel. **Currently powering 40+ applications.**
 *Repo: `resume-ops` (publishing soon)*
@@ -17,10 +20,6 @@ An ATS-optimized resume and cover-letter generator with a repeatable, quality-ga
 ### Quiver · `Python · Apify · Jobscan`
 An automated daily job-search pipeline, shipped in 7 days. Scrapes 22 target companies, filters and dedupes to TPM/PM roles, and ranks by competition so effort goes where odds are best. **First run: 103 roles in 4.1 minutes, 32 with under 50 applicants.**
 *Repo: `quiver` (publishing soon)*
-
-### FamilyBoard · `React · TypeScript · Supabase`
-A real-time multiplayer board game, engineered in 2 days with no prior frontend experience. Separated planning (Claude) from build (Bolt) to cut token cost, then shipped a pure functional game engine with **170 automated tests** and low-latency cross-geography WebSocket sync.
-*Repo: `familyboard` + live demo (publishing soon)*
 
 ---
 
@@ -32,4 +31,4 @@ The same operating system across defense programs and weekend AI builds: define 
 
 ---
 
-*This profile is a work in progress: the three repos above are being packaged for release now. Watch this space.*
+*This profile is a work in progress: more repos are being packaged for release now. Watch this space.*
